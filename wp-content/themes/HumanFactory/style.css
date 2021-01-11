@@ -1,0 +1,32 @@
+/*
+Theme Name: Human Factory 
+Theme URI: https://wordpress.org/themes/HumanFactory/
+Author: Valhalla
+Author URI: 
+Description: La devoción, de conocimiento y avanzar en la vida, a pesar de cómo seamos nos ha unido en la gran oportunidad de crecer. Vamos pa arriba compas, somos buenas personas.
+Tags: Ropa fetichista, Goth, Harness, For The Mases
+Version: 1.0
+Requires at least: 0.0
+Tested up to: 0.0
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: humanfactory
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.suscribir{
+
+    background: rgb(8, 10, 9);
+    background: linear-gradient(180deg, rgb(13, 14, 13) 0%, rgb(160, 170, 164) 100%);
+    background-size: cover;
+    background-position: center;
+    position: center;
+    opacity: 0.5;
+    height:400px;
+
+}
+.imagenFondoCabecera{
+    width:600px;
+    height:400px;
+}
